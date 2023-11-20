@@ -1,5 +1,5 @@
 # Coffee-Machine-project
-Python Project
+Python Project that utilizes Dictionaries, defining functions, checking conditions, remembering values, calling functions with parameters.
 
 This is a project made by following these requirements:
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
